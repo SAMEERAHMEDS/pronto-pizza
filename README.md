@@ -1,6 +1,3 @@
-Here's a README you can use — based entirely on what I read in the codebase:
-
-````markdown
 # Pronto Pizza 🍕
 
 A fast, minimal pizza ordering web app built with React. Browse the menu, build your cart, and place orders — no account needed.
